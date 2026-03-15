@@ -1,4 +1,3 @@
-# anotaai
 # 🧠 AnotaAI
 
 **AnotaAI** é um aplicativo de anotações inteligente que transforma sua voz em ideias organizadas automaticamente.
